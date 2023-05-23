@@ -23,3 +23,15 @@ Download HAM10000 dataset using this [URL Link](https://www.kaggle.com/kmader/sk
 ## Encrypted Inference 
 To enable FHE scheme, refer to [this link](https://github.com/IBM/fhe-toolkit-linux). 
 To install it, you need to have `Linux based Docker container` (as a programming language you can choose either `Python` or `C++`). 
+
+## Citation
+```bibtex
+@InProceedings{Tastan_2023_CVPR,
+    author    = {Tastan, Nurbek and Nandakumar, Karthik},
+    title     = {CaPriDe Learning: Confidential and Private Decentralized Learning Based on Encryption-Friendly Distillation Loss}, 
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {8084-8092}
+}
+```
