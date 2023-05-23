@@ -1,6 +1,6 @@
 # CaPriDe Learning
 
-This repository is an implementation of CVPR 2023 paper titled: "CaPriDe Learning: Confidential and Private Decentralized Learning based on Encryption-friendly Distillation Loss". 
+This repository is an implementation of CVPR 2023 paper titled: [CaPriDe Learning: Confidential and Private Decentralized Learning based on Encryption-friendly Distillation Loss](https://openaccess.thecvf.com/content/CVPR2023/papers/Tastan_CaPriDe_Learning_Confidential_and_Private_Decentralized_Learning_Based_on_Encryption-Friendly_CVPR_2023_paper.pdf). 
 
 ## Dependencies
 ```
